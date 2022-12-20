@@ -34,7 +34,7 @@ def get_blog_title_category():
             post_category_list.append(post_category_text)
             post_create_at.append(post_create_at_text)
         return
-
+    # https://naithar01.tistory.com/
     url = "https://naithar01.tistory.com/?page="
 
     # 1 ~ 2 페이지를 크롤링할 예정 
